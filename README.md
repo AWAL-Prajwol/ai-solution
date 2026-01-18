@@ -219,14 +219,4 @@ The project includes comprehensive testing:
 - Write tests for new features
 - Use conventional commit messages
 
-## 📄 License
 
-This project is private and proprietary. All rights reserved.
-
-## 📞 Contact
-
-For questions or support, please contact the development team.
-
----
-
-**Built with ❤️ using Next.js and modern web technologies**
